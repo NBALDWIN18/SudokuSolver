@@ -1,6 +1,16 @@
 # SudokuSolver
 Play and solve Sudoku puzzles
 
+V2.0:
+      Changes:
+      - Added base GUI
+      - User can play the game
+      - Templates can be applied
+      - Templates can be solved
+      To Do:
+      - Allow for solving after user input
+      - Allow user to create templates
+
 V1.1:
       Changes:
       - A little bit of cleaning
