@@ -218,3 +218,5 @@ class Board(object):
                     break
             if not insert:                  #If insertion fail, look for error
                 self.Fix(index)
+
+        return self
